@@ -61,8 +61,9 @@ python -m streamlit run app.py
 ```bash
 brain-tumor/
 ├── app.py               # Streamlit app
-├── model.keras          # Trained model
+├── model.keras          # Trained CNN model
 ├── notebook.ipynb       # Model training and evaluation
+├── requirements.txt     # Dependencies
 └── README.md            # Project overview
 ```
 
