@@ -22,7 +22,7 @@ This project is a deep learning-based image classification model designed to det
 ## 📊 Performance
 
 - The model was trained and evaluated using accuracy and loss metrics.
-- *Achieved 98.1% validation accuracy*
+- *Achieved 98.63% validation accuracy*
 
 ## 🛠️ Tech Stack
 
