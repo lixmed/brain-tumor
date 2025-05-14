@@ -22,13 +22,13 @@ This project is a deep learning-based image classification model designed to det
 ## 📊 Performance
 
 - The model was trained and evaluated using accuracy and loss metrics.
-- *(You can add your final accuracy here, e.g., "Achieved 94.2% validation accuracy")*
+- *Achieved 98.1% validation accuracy*
 
 ## 🛠️ Tech Stack
 
 - `Python`
 - `TensorFlow / Keras`
-- `NumPy`, `Matplotlib`, `Pandas`
+- `NumPy`, `Matplotlib`, `Pandas` , `Seaborn` , `PIL`
 - `Streamlit` (for UI deployment)
 
 ## 🚀 How to Run
